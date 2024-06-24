@@ -1,0 +1,62 @@
+:root {
+  --cor_amarela: #e6c744;
+  --cor_escura: #000;
+  --cor_clara: #fff;
+  --cor_cinza: #c2c8da;
+}
+
+* {
+    margin: 0px !important;
+    padding: 0px !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
+}
+
+.cor_amarela {
+  color: var(--cor_amarela);/*cor amarela*/
+}
+
+.cor_escura {
+  color: var(--cor_escura);/*cor escura*/
+}
+
+.cor_clara {
+  color: var(--cor_clara);/*cor clara*/
+}
+
+.cor_cinza {
+  color: var(--cor_cinza);/*cor cinza*/
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+  /**menu / nav **/
+  .meumenu {
+    text-transform: uppercase;
+    padding: 10px 30px !important;
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
